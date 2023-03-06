@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
     <LinearLayout
+        android:id="@+id/linear_menu"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:padding="8dp"
@@ -29,6 +30,14 @@
             android:layout_height="40dp"
             android:src="@drawable/ic_moon"/>
      </LinearLayout>
+
+    <TextView
+        android:text="Olá!"
+        android:layout_marginTop="32dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/linear_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
     
     <TextView
         android:id="@+id/frase"
