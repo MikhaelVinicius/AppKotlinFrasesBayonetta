@@ -32,7 +32,10 @@
      </LinearLayout>
 
     <TextView
-        android:text="Olá!"
+        android:textColor="@color/black"
+        android:fontFamily="@font/cabin"
+        android:text="@string/app_name"
+        android:textSize="22sp"
         android:layout_marginTop="32dp"
         android:layout_centerHorizontal="true"
         android:layout_below="@id/linear_menu"
@@ -41,6 +44,10 @@
     
     <TextView
         android:id="@+id/frase"
+        android:elevation="5dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+
         android:layout_width="match_parent"
         android:layout_centerInParent="true"
         android:text="Bayonetta"
@@ -48,11 +55,12 @@
         android:gravity="center"
         android:layout_height="wrap_content"/>
     <View
+        android:backgroundTint="@color/dark_purple"
         android:background="@color/black"
         android:layout_width="128dp"
         android:layout_below="@id/frase"
         android:layout_centerHorizontal="true"
-        android:layout_height="5dp" />
+        android:layout_height="3dp" />
 
     <Button
         android:fontFamily="@font/cabin"
