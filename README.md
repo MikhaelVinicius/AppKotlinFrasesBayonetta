@@ -1,3 +1,3 @@
 # AppKotlinFrasesBayonetta
 
-#### Em desenvolvimento 
+#### Em desenvolvimento no Android Studios 
