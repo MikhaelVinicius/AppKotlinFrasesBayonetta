@@ -1,4 +1,4 @@
-package com.example.motivationbayonetta
+package com.example.motivationbayonetta.ui
 
 
 
@@ -6,6 +6,8 @@ import com.example.motivationbayonetta.databinding.ActivityMainBinding
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.example.motivationbayonetta.R
+import com.example.motivationbayonetta.SecurityPreferences
 
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {

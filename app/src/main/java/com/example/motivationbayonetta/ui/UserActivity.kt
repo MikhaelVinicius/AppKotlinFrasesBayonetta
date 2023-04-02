@@ -1,15 +1,15 @@
-package com.example.motivationbayonetta
+package com.example.motivationbayonetta.ui
 
 
-import android.content.Context
 import android.content.Intent
-import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
-import com.example.motivationbayonetta.databinding.ActivityUserBinding
+import com.example.motivationbayonetta.MotivationConstants
+import com.example.motivationbayonetta.R
 import com.example.motivationbayonetta.SecurityPreferences
+import com.example.motivationbayonetta.databinding.ActivityUserBinding
 
 class UserActivity : AppCompatActivity(), View.OnClickListener {
 
