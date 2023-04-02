@@ -1,4 +1,4 @@
-package com.example.motivationbayonetta
+package com.example.motivationbayonetta.infra
 
 import android.content.Context
 import android.content.SharedPreferences

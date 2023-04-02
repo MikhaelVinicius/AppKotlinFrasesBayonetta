@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import com.example.motivationbayonetta.R
-import com.example.motivationbayonetta.SecurityPreferences
+import com.example.motivationbayonetta.infra.SecurityPreferences
 
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {

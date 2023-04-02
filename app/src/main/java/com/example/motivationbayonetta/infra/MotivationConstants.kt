@@ -1,4 +1,4 @@
-package com.example.motivationbayonetta
+package com.example.motivationbayonetta.infra
 
 class MotivationConstants private constructor(){
     object KEY {
