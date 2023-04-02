@@ -1,3 +1,3 @@
 # AppKotlinFrasesBayonetta
 
-#### Em desenvolvimento no Android Studios, linguagem Kotlin 
+#### Concluído. Mas suscétivel a alterações.
